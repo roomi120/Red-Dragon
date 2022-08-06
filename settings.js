@@ -32,11 +32,11 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['+923136744239'] //ur owner number
 global.ownername = "😎bad.boy❯❯" //ur owner name
 global.ytname = "https://youtube.com/channel/UChzb_g2vFi8fCDrntDrZkDA" //ur yt chanel name
-global.socialm = "GitHub: prabhasha2006" //ur github or insta name
+global.socialm = "GitHub: bad boy" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/7KJMgMm/profile-picture-20220212174021.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/2ssQDHG/profile-picture-20220215214616.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
@@ -50,11 +50,11 @@ global.author = "bad╺ boy" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ you tuy ☰'https://youtube.com/channel/UChzb_g2vFi8fCDrntDrZkDA //Costomize A Button Name In Alive Message
+global.btnurl = 'https://youtube.com/channel/UChzb_g2vFi8fCDrntDrZkDA' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+923136744239'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
